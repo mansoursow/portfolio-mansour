@@ -23,13 +23,14 @@ const Companies = () => {
       link: "https://dm-gp.vercel.app/",
     },
     {
-      name: "Compta IA",
+      name: "Accountech AI",
       description:
         "Un prototype d’ERP intelligent dédié à l’automatisation de la comptabilité. Il intègre l’IA pour extraire automatiquement les données des factures, les classer, et générer les écritures comptables conformément aux normes Syscohada.",
       icon: FileText,
       color: "from-yellow-500 to-amber-500",
       bgColor: "from-yellow-500/10 to-amber-500/10",
       borderColor: "border-yellow-500/30",
+      link: "https://www.accountech-ai.com/",
     },
   ];
 
